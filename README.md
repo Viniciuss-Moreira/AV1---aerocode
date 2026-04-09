@@ -1,4 +1,5 @@
 # Aerocode - AV1 - 2 DSM
+Vinicius Silva Moreira
 
 ## Como rodar o projeto
 
