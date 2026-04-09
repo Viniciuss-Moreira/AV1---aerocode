@@ -1,0 +1,2 @@
+import { LocalStorage } from 'node-localstorage';
+export const localStorage = new LocalStorage('./data/local_storage');
